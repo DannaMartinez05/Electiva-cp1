@@ -1,5 +1,4 @@
 # Electiva-cp1
-Talleres con el profesor charry
 
 Este taller aplica conceptos de regresión lineal simple utilizando un dataset de precios de casas. A lo largo de las actividades se realiza:
 
